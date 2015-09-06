@@ -66,7 +66,7 @@ xdg-open http://www.ncsu.edu
 ###Screencast for the post-commit hook invocation
 
 >####Kindly click the image below for the screencast [you will be redirected to YouTube]
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NY6jASIxmwU/0.jpg)]
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NY6jASIxmwU/0.jpg)](https://www.youtube.com/watch?v=NY6jASIxmwU)
 
 #Quick Links
 [Screenshot 1](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_1.png)  
