@@ -66,9 +66,13 @@ xdg-open http://www.ncsu.edu
 ###Screencast for the post-commit hook invocation
 
 >####Kindly click the image below for the screencast [you will be redirected to YouTube]
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RUEj2Edu_Qk/0.jpg)](http://www.youtube.com/watch?v=RUEj2Edu_Qk)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NY6jASIxmwU/0.jpg)]
 
-
+#Quick Links
+[Screenshot 1](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_1.png)  
+[Screenshot 2](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_2.png)  
+[Screenshot 3](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/Learn%20Git%20Branching.png)  
+[Hooks screencast](https://www.youtube.com/watch?v=NY6jASIxmwU)
 
 
 
