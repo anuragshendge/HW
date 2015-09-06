@@ -1,4 +1,4 @@
-#CSC 791 Homework\#0#  
+#CSC 791 Homework\#0  
 
 #Part 1: Git basics  
 
@@ -46,10 +46,10 @@
 >     git checkout pushed
 >     git revert pushed  
 
-##Screenshots for the completed levels
-###***Level 1***
+##Screenshots for the completed levels  
+###***1***
 ![images](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_1.png)
-###***Level 2***
+###***2***
 ![images](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_2.png)
 ###***Completion progress***
 ![images](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/Learn%20Git%20Branching.png)
@@ -57,15 +57,15 @@
 
 #Part 2: Hooks
 
-##Post-commit content
+###Post-commit content [[Raw file](/blob/master/raw_files/post-commit)]
 ```shell  
 #!/bin/bash  
 xdg-open http://www.ncsu.edu
 ```
 
-##Screencast for the post-commit hook invocation
+###Screencast for the post-commit hook invocation
 
-###Kindly Click on the image below for the screencast [you will be redirected to YouTube]
+>####Kindly click the image below for the screencast [you will be redirected to YouTube]
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RUEj2Edu_Qk/0.jpg)](http://www.youtube.com/watch?v=RUEj2Edu_Qk)
 
 
