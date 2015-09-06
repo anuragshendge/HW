@@ -19,7 +19,7 @@
 >     git commit
 >     git merge bugFix
 
-####***Level4: Rebase Introduction***   
+####***Level 4: Rebase Introduction***   
 >     git branch bugFix
 >     git checkout bugFix
 >     git commit
@@ -47,10 +47,29 @@
 >     git revert pushed  
 
 ##Screenshots for the completed levels
-
+###***Level 1***
+![images](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_1.png)
+###***Level 2***
+![images](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/row_2.png)
+###***Completion progress***
+![images](https://raw.githubusercontent.com/anuragshendge/HW/master/screenshots/Learn%20Git%20Branching.png)
 
 
 #Part 2: Hooks
+
+##Post-commit content
+```shell  
+#!/bin/bash  
+xdg-open http://www.ncsu.edu
+```
+
+##Screencast for the post-commit hook invocation
+
+###Kindly Click on the image below for the screencast [you will be redirected to YouTube]
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RUEj2Edu_Qk/0.jpg)](http://www.youtube.com/watch?v=RUEj2Edu_Qk)
+
+
+
 
 
 
