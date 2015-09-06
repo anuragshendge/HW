@@ -57,7 +57,7 @@
 
 #Part 2: Hooks
 
-###Post-commit content [[Raw file](/blob/master/raw_files/post-commit)]
+###Post-commit content [[Raw file](https://github.com/anuragshendge/HW/blob/master/raw_files/post-commit)]
 ```shell  
 #!/bin/bash  
 xdg-open http://www.ncsu.edu
